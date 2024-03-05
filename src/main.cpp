@@ -21,7 +21,7 @@ float temperature2, pressure2, altitude2;
 const char *mqttUser = "Tu_Usuario";
 const char *mqttPassword = "Tu_Contraseña";
 const char* mqtt_server = "mqtt.rosariot.com";
-const int mqtt_port = 1880;
+const int mqtt_port = 8880;
 const char *mqttServer2 = "broker.hivemq.com";
 const int mqttPort2 = 1883;
 
